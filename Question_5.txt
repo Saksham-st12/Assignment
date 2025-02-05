@@ -1,0 +1,4 @@
+Q:- Which search is generally preferred Binary Search or Ternary Search? Give Reason.
+
+Ans:- Binary search is preffered more over ternary search , because it makes one comparison per level of search, whereas ternary search makes two. This extra comparison adds more processing time, negating the advantage of fewer levels in the search tree.
+The time complexity of Binary search is O(log2 N) whereas, the time complexity of Binary search is O(log3 N)
